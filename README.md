@@ -1,4 +1,4 @@
-# Lipinski Lens lipinski-lens.up.railway.app/
+# Lipinski Lens https://lipinski-lens.up.railway.app/
 
 A web application to evaluate drug-likeness using **Lipinski's Rule of Five** from SMILES input, built with **Flask** and **RDKit**.
 
