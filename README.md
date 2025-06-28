@@ -2,7 +2,7 @@
 
 A web application to evaluate drug-likeness using **Lipinski's Rule of Five** from SMILES input, built with **Flask** and **RDKit**.
 
-![Lipinski Lens Banner](/assets/LL.png)
+![Lipinski Lens Banner](/assets/LL1.png)
 
 ---
 
