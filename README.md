@@ -1,6 +1,6 @@
-# Lipinski Lens https://lipinski-lens.up.railway.app/
+# 🧪 [Lipinski Lens](https://lipinski-lens.up.railway.app/)
 
-A web application to evaluate drug-likeness using **Lipinski's Rule of Five** from SMILES input, built with **Flask** and **RDKit**.
+## A web application to evaluate drug-likeness using **Lipinski's Rule of Five** from SMILES input, built with **Flask** and **RDKit**.
 
 ![Lipinski Lens Banner](/assets/LL1.png)
 
@@ -14,8 +14,7 @@ A web application to evaluate drug-likeness using **Lipinski's Rule of Five** fr
   - LogP
   - Hydrogen bond donors (HBD)
   - Hydrogen bond acceptors (HBA)
-- Evaluates compliance with **Lipinski’s Rule of Five**
-- Supports **CSV result download**
+  - Supports CSV result download
 
 ---
 
